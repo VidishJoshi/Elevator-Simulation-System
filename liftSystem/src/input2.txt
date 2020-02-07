@@ -1,0 +1,3 @@
+Vidish		3		8
+Jeet		5		1
+Rahul		0		1
